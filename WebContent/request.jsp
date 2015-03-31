@@ -79,14 +79,14 @@
                     </div>
                  </div>
 
-               <div class="form-group">
-                 <label for="inputFile" class="col-lg-2 control-label">File</label>
-                 
-                 <div class="col-lg-10">
-                   <input type="text" readonly class="form-control floating-label" placeholder="Browse...">
-                   <input type="file" id="inputFile" multiple>
-                 </div>
-               </div>
+                <div class="form-group">
+                  <label for="inputFile" class="col-lg-2 control-label">Open file</label>
+                  
+                  <div class="col-lg-10">
+                    <input type="text" readonly class="form-control floating-label" placeholder="Browse...">
+                    <input type="file" id="inputFile" multiple>
+                  </div>
+                </div>
                
                <div class="form-group">
                   <label for="tagArea" class="col-lg-2 control-label">Tag</label>
