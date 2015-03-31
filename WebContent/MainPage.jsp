@@ -55,9 +55,95 @@
        <div class="col-lg-6 col-md-6 col-sm-6">
          <img src="image/camera.png">
        </div>
-      
-      
+       <div class="col-lg-6">
+             <div class="bs-component" align = "center">
+                 <br><br><br><br><br><br><br>
+                 <p class="text-success">Welcome to Photo Surgery Page</p>
+                 <p class="text-success">Here we present virtual place you can convert yourself into</p>
+                 <p class="text-success">We would like to offer you a change you can't refuse</p>
+                 <p class="text-success">Don't Hide YOUR EXISTENCE. </p>
+                 <p class="text-success">THE PHOTO DOCTORS HERE WILL MAKE YOU NEW</p>
+                 <p class="text-success">WELCOME ABOARD AGAIN PATIENTS!</p>
+            </div>
+      </div>      
       </div>
+      <div class="row" float = "left">
+     
+      <div class="col-lg-6 col-md-6 col-sm-6" >
+      <br><br><br><br>
+         <img src="image/Request.jpg" width= "150" height = "150"  >
+         <br><br><br><br><br><br><br><br><br>
+         
+          <h1 class="bs-component">
+            
+             <a href="javascript:void(0)" class="btn btn-flat btn-success">RECENTLY IMPLEMENTED SURGERY</a>
+             <br><br><br><br><br><br>
+             <a href="javascript:void(0)" class="btn btn-flat btn-info">Admin's Chosen SURGERY</a>
+             <br><br><br><br><br><br>
+             <a href="javascript:void(0)" class="btn btn-flat btn-warning">Weekly SURGERY</a>
+             <br><br><br><br><br><br>
+             <a href="javascript:void(0)" class="btn btn-flat btn-danger">Monthly SURGERY</a>         
+             <br><br><br><br><br><br>
+          </h1>
+        
+      </div>
+      
+    <div class="row" >
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                    <div class="col-lg-4">
+                        <div class="bs-component">
+                            <ul class="pagination">
+                                <li class="disabled"><a href="javascript:void(0)">&laquo;</a></li>
+                                <li class="active"><a href="javascript:void(0)">1</a></li>
+                                <li><a href="javascript:void(0)">2</a></li>
+                                <li><a href="javascript:void(0)">3</a></li>
+                                <li><a href="javascript:void(0)">4</a></li>
+                                <li><a href="javascript:void(0)">5</a></li>
+                                <li><a href="javascript:void(0)">&raquo;</a></li>
+                            </ul>
+                            <br><br><br><br><br><br><br><br><br>
+                        </div>
+                        <div class="bs-component">
+                            <ul class="pagination">
+                                <li class="disabled"><a href="javascript:void(0)">&laquo;</a></li>
+                                <li class="active"><a href="javascript:void(0)">1</a></li>
+                                <li><a href="javascript:void(0)">2</a></li>
+                                <li><a href="javascript:void(0)">3</a></li>
+                                <li><a href="javascript:void(0)">4</a></li>
+                                <li><a href="javascript:void(0)">5</a></li>
+                                <li><a href="javascript:void(0)">&raquo;</a></li>
+                            </ul>
+                            <br><br><br><br><br><br><br><br><br>
+                        </div>
+                        <div class="bs-component">
+                            <ul class="pagination">
+                                <li class="disabled"><a href="javascript:void(0)">&laquo;</a></li>
+                                <li class="active"><a href="javascript:void(0)">1</a></li>
+                                <li><a href="javascript:void(0)">2</a></li>
+                                <li><a href="javascript:void(0)">3</a></li>
+                                <li><a href="javascript:void(0)">4</a></li>
+                                <li><a href="javascript:void(0)">5</a></li>
+                                <li><a href="javascript:void(0)">&raquo;</a></li>
+                            </ul>
+                            <br><br><br><br><br><br><br><br><br>
+                        </div>
+                        <div class="bs-component">
+                            <ul class="pagination">
+                                <li class="disabled"><a href="javascript:void(0)">&laquo;</a></li>
+                                <li class="active"><a href="javascript:void(0)">1</a></li>
+                                <li><a href="javascript:void(0)">2</a></li>
+                                <li><a href="javascript:void(0)">3</a></li>
+                                <li><a href="javascript:void(0)">4</a></li>
+                                <li><a href="javascript:void(0)">5</a></li>
+                                <li><a href="javascript:void(0)">&raquo;</a></li>
+                            </ul>
+                            <br><br><br><br><br><br><br><br><br>
+                        </div>
+                        
+                        
+                    </div>
+    </div>  
+      
     </div>
 
     <script src="js/registering.js"></script>
