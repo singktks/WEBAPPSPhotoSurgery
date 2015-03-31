@@ -60,7 +60,7 @@
         <div class="col-lg-6">
         
          
-          <p class ="lead">REQUEST SURGERY</p>
+          <p class ="lead">REQUEST YOUR OWN SURGERY</p>
           
           <div class="well bs-component">
             <form class="form-horizontal">
@@ -87,6 +87,13 @@
                    <input type="file" id="inputFile" multiple>
                  </div>
                </div>
+               
+               <div class="form-group">
+                  <label for="tagArea" class="col-lg-2 control-label">Tag</label>
+                    <div class="col-lg-10">
+                      <textarea class="form-control" rows="3" id="tagArea"></textarea>
+                    </div>
+                 </div>
 
                 <div class="form-group">
                   <div class="col-lg-10 col-lg-offset-2">
